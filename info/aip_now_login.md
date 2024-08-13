@@ -8,8 +8,11 @@
 6. Sign up on "Your own behalf"
 7. Enter your information
 8. Setup your AIP Platform
+   
   a. Call your project: ```<FIRST_INITIAL><LAST_NAME>-hops-8-14``` (ex. jsmith-hops-8-14)
+  
   b. Select ```US-East``` as your region
-9. Enter billing details
-10. Sign up for AIPNow!
-11. Get started with Docs + Videos
+  
+10. Enter billing details
+11. Sign up for AIPNow!
+12. Get started with Docs + Videos
