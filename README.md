@@ -1,12 +1,12 @@
 # Palantir for Hospitals Recruitment Event
 Welcome to the Palantir for Hospitals Recruitment Event for August 2024! We are very excited to be piloting a new demo with you all, to help you learn more about Palantir's AIP and some example workflows we employ on the Hospital Operations team, and for us to learn more about you.
 
-This event will be structured as a free-form project competition: you will be provided with access to a dataset that we've curated for you, with which you will build a notional workflow within Palantir's AIP Now platform. There are no strict rules for what you should build and no standard rubric which we will be using. Instead, we are curious to see your creativity and thought-process shine in this excercise.
+This event will be structured as a free-form project competition: you will be provided with access to a dataset that we've curated for you, with which you will build a notional workflow within Palantir's AIP Now platform. There are no strict rules for what you should build and no standard rubric which we will be using. Instead, we are curious to see your creativity and thought-process shine in this exercise.
 
 ### Competition Rules and Information
 - Each applicant is welcome to create a single stack on AIP Now.
 - Using the provided data, we encourage you to build functional workshops on AIP Now demonstrating your creativity and ability to productionalize this data.
-- Submissions are due by September 13th, 2024, and will be evaluated by the Palantir team.
+- Submissions are due by September 13th, 2024 and will be evaluated by the Palantir team.
 
 ### Setting up AIP Now and Submissions
 1. [Sign up for AIP Now](https://signup.palantirfoundry.com/signup?signupPermitCode=BUILD_WITH_AIP&tracking-code=build.palantir.com).
