@@ -21,4 +21,5 @@ This event will be structured as a free-form project competition: you will be pr
 [Data ZIP File](./data/extract.zip)
 
 Repository for the project competition and submission page for the Palantir for Hospitals recruiting event on August 14, 2024.
+
 [Who am I?](https://en.wikipedia.org/wiki/Zelus)
