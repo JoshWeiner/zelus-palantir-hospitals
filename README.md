@@ -20,6 +20,8 @@ Our customers come to us with a hunch that the only way to improve their hospita
 
 This data includes a notional patient notes `patient_notes.csv` dataset, a patient note feature `features.csv` dataset, and ICD-10 codes, description, and vector embedding dataset `icd_10_data.csv`.
 
+[Data Documentation](https://github.com/pmc-patients/pmc-patients)
+
 <hr>
 
 [Who am I?](https://en.wikipedia.org/wiki/Zelus)
