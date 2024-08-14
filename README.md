@@ -22,7 +22,7 @@ This data includes a notional patient notes `PMC_Patient_clean.csv` dataset, and
 
 The PMC_Patient_clean dataset was cleaned and sourced from the following:
 
-**Zhao, Z., Jin, Q., Chen, F., Peng, T., & Yu, S. (2022).** A Large-scale Dataset of Patient Summaries and Relations for Benchmarking Retrieval-based Clinical Decision Support Systems. Retrieved from [https://arxiv.org/pdf/2202.13876](https://arxiv.org/pdf/2202.13876)
+> **Zhao, Z., Jin, Q., Chen, F., Peng, T., & Yu, S. (2022).** A Large-scale Dataset of Patient Summaries and Relations for Benchmarking Retrieval-based Clinical Decision Support Systems. Retrieved from [https://arxiv.org/pdf/2202.13876](https://arxiv.org/pdf/2202.13876)
 
 #### Data Documentation
 
