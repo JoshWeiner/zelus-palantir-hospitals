@@ -27,6 +27,7 @@ The PMC_Patient_clean dataset was cleaned and sourced from the following:
 #### Data Documentation
 
 **Dataset 1: PMC_Patient_clean.csv**
+
 | **Field Name** | **Description**                     | **Data Type** |
 |----------------|-------------------------------------|---------------|
 | `patient_id`   | A continuous id of patients, starting from 0  | Integer        |
@@ -36,6 +37,7 @@ The PMC_Patient_clean dataset was cleaned and sourced from the following:
 | `gender`       | Gender of the patient 'M' or 'F'. Male or Female | String        |
 
 **Dataset 2: icd_10_codes.csv**
+
 | **Field Name** | **Description**                     | **Data Type** |
 |----------------|-------------------------------------|---------------|
 | `icd_10_code`   | CDC/CMS ICD-10 code        | String        |
