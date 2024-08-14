@@ -13,4 +13,4 @@ The above concepts are critial pieces of Foundry that everyone on the Hospitals 
 
 If you're having trouble figuring something out, do your best to struggle through it or reference Palantir documentation. If you need, feel free to reach out to the following for more direction:
 - [Anders Seline](aseline@palantir.com)
-- [Joshua Weiner](jweiner@palantir.com)
+- [Joshua Weiner](joshuaweiner@palantir.com)
