@@ -16,7 +16,7 @@ Our customers come to us with a hunch that the only way to improve their hospita
 - Analyze patterns of healthcare utilization by integrating patient demographics, notes, and ICD-10 codes to model healthcare costs and identify drivers of high expenditures
 
 ### Link to Data
-[Data Extract ZIP File](./data/extract.tar.gz) 
+[Data Extract tar File](https://github.com/JoshWeiner/zelus-palantir-hospitals/raw/main/data/extract.tar.gz?download=) 
 
 This data includes a notional patient notes `PMC_Patient_clean.csv` dataset, and ICD-10 codes, description, and vector embedding dataset `icd_10_data.csv`.
 
