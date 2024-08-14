@@ -18,7 +18,7 @@ Our customers come to us with a hunch that the only way to improve their hospita
 ### Link to Data
 [Data Extract tar File](https://github.com/JoshWeiner/zelus-palantir-hospitals/raw/main/data/extract.tar.gz?download=) 
 
-This data includes a notional patient notes `PMC_Patient_clean.csv` dataset, and ICD-10 codes, description, and vector embedding dataset `icd_10_data.csv`.
+This data includes a notional patient notes `PMC_Patient_clean.csv` dataset, and ICD-10 codes, description, and vector embedding dataset `icd_10_codes.csv`.
 
 The PMC_Patient_clean dataset was cleaned and sourced from the following:
 
