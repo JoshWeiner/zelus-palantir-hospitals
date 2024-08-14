@@ -1,25 +1,25 @@
-# Palantir for Hospitals Recruitment Event
-Welcome to the Palantir for Hospitals Recruitment Event for August 2024! We are very excited to be piloting a new demo with you all, to help you learn more about Palantir's AIP and some example workflows we employ on the Hospital Operations team, and for us to learn more about you.
+# Build Now – Palantir for Hospitals Recruiting Competition
+Palantir technology powers mission-critical, real-world decisions across industries, helping operators to prevent wildfires, distribute vaccines, staff nurses, improve road safety, and more. Build the future with us. Now. 
 
-This event will be structured as a free-form project competition: you will be provided with access to a dataset that we've curated for you, with which you will build a notional workflow within Palantir's AIP Now platform. There are no strict rules for what you should build and no standard rubric which we will be using. Instead, we are curious to see your creativity and thought-process shine in this exercise.
+Our customers come to us with a hunch that the only way to improve their hospital operations, provide the best care, structure effective healthcare policies, or deliver healthcare to more patients is to make better use of their data. The Palantir for Hospitals team is responsible for turning that hunch into reality. 
 
-### Competition Rules and Information
-- Each applicant is welcome to create a single stack on AIP Now.
-- Using the provided data, we encourage you to build functional workshops on AIP Now demonstrating your creativity and ability to productionalize this data.
-- Submissions are due by September 13th, 2024 and will be evaluated by the Palantir team.
-
-### Setting up AIP Now and Submissions
-1. [Sign up for AIP Now](https://signup.palantirfoundry.com/signup?signupPermitCode=BUILD_WITH_AIP&tracking-code=build.palantir.com).
-2. Enable permissions for [the Palantir team](./misc/palantir_emails.txt) on your AIP Now stack. [How to enable permissions](./info/permissions.md)
+### Setting Up Your Environment & Submissions
+1. Please follow the steps outlined on [the competition homepage](https://palantir.events/buildnow) to set up your AIP Now access.
 3. [Set up a new workflow]()
 4. [Add the data to your workflow]()
-5. Submit the link to your AIP workflow in [this form]() when complete so we can evaluate your work.
+5. Submit the link to your AIP workflow to [hospitals-recruiting@palantir.com](mailto:hospitals-recruiting@palantir.com) when complete so we can evaluate your work. Please use `LASTNAME_FIRSTNAME_BUILDNOW_SUBMISSION` in the subject line. Submissions are due no later than Friday, October 18th, 2024 and will be evaluated on a rolling basis. 
 
 ### Example Prompts
+- Given a patient's notes, how do we generate verifiable diagnoses and highlight concerns/abnormalities for clinicians?
+- Create a simulation model that predicts hospital admission rates based on the frequency and types of ICD-10 codes in patient notes over time.
+- Use NLP to extract medication names and dosages from patient notes and correlate them with ICD-10 codes to identify potential unsafe drug interactions or contraindications.
+- Analyze patterns of healthcare utilization by integrating patient demographics, notes, and ICD-10 codes to model healthcare costs and identify drivers of high expenditures
 
 ### Link to Data
-[Data ZIP File](./data/extract.zip)
+[Data Extract ZIP File](./data/datasets.zip) 
 
-Repository for the project competition and submission page for the Palantir for Hospitals recruiting event on August 14, 2024.
+This data includes a notional patient notes `patient_notes.csv` dataset, a patient note feature `features.csv` dataset, and ICD-10 codes, description, and vector embedding dataset `icd_10_data.csv`.
+
+<hr>
 
 [Who am I?](https://en.wikipedia.org/wiki/Zelus)
