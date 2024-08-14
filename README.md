@@ -6,7 +6,7 @@ Our customers come to us with a hunch that the only way to improve their hospita
 ### Setting Up Your Environment & Submissions
 1. Please follow the steps outlined on [the competition homepage](https://palantir.events/buildnow) to set up your AIP Now access.
 2. [Get Familiar with AIPNow]()
-3. [Setup you Project]()
+3. [Setup your Project]()
 4. Submit the link to your AIP workflow to [hospitals-recruiting@palantir.com](mailto:hospitals-recruiting@palantir.com) when complete so we can evaluate your work. Please use `LASTNAME_FIRSTNAME_BUILDNOW_SUBMISSION` in the subject line. Submissions are due no later than Friday, October 18th, 2024 and will be evaluated on a rolling basis. 
 
 ### Example Prompts
@@ -16,11 +16,31 @@ Our customers come to us with a hunch that the only way to improve their hospita
 - Analyze patterns of healthcare utilization by integrating patient demographics, notes, and ICD-10 codes to model healthcare costs and identify drivers of high expenditures
 
 ### Link to Data
-[Data Extract ZIP File](./data/datasets.zip) 
+[Data Extract ZIP File](./data/extract.zip) 
 
-This data includes a notional patient notes `patient_notes.csv` dataset, a patient note feature `features.csv` dataset, and ICD-10 codes, description, and vector embedding dataset `icd_10_data.csv`.
+This data includes a notional patient notes `PMC_Patient_clean.csv` dataset, and ICD-10 codes, description, and vector embedding dataset `icd_10_data.csv`.
 
-[Data Documentation](https://github.com/pmc-patients/pmc-patients)
+The PMC_Patient_clean dataset was cleaned and sourced from the following:
+
+**Zhao, Z., Jin, Q., Chen, F., Peng, T., & Yu, S. (2022).** A Large-scale Dataset of Patient Summaries and Relations for Benchmarking Retrieval-based Clinical Decision Support Systems. Retrieved from [https://arxiv.org/pdf/2202.13876](https://arxiv.org/pdf/2202.13876)
+
+#### Data Documentation
+| **Field Name** | **Description**                     | **Data Type** |
+|----------------|-------------------------------------|---------------|
+| **Dataset 1: PMC_Patients_cleaned.csv**                 |
+| `patient_id`   | A continuous id of patients, starting from 0  | Integer        |
+| `patient_uid` | Unique ID for each patient, with format PMID-x, where PMID is the PubMed Identifier of the source article of the patient and x denotes index of the patient in source article  | String          |
+| `patient_note`    | Summary of patient: symptoms, diagnoses, history, and/or treatment               | String        |
+| `age`          | Age of the patient in years              | Integer       |
+| `gender`       | Gender of the patient 'M' or 'F'. Male or Female | String        |
+| **Dataset 2: icd_10_codes.csv**                             |
+| `icd_10_code`   | CDC/CMS ICD-10 code        | String        |
+| `description`| ICD-10 code detailed description/diagnosis | String    |
+| `embedded_description`  | Vector embedding of ICD-10 code description/diagnosis | String        |
+| `category`| General grouping for ICD-10 descriptions | String    |
+
+
+[Further Data Documentation](https://github.com/pmc-patients/pmc-patients)
 
 <hr>
 
