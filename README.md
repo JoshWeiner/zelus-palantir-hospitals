@@ -6,7 +6,7 @@ Our customers come to us with a hunch that the only way to improve their hospita
 ### Setting Up Your Environment & Submissions
 1. Please follow the steps outlined on [the competition homepage](https://palantir.events/buildnow) to set up your AIP Now access.
 2. [Get Familiar with AIPNow](/info/aip_now_help.md)
-3. [Setup your Project](/inf/setup_your_project.md)
+3. [Setup your Project](/info/setup_your_project.md)
 4. **Submit the link to your AIP workflow to [hospitals-recruiting@palantir.com](mailto:hospitals-recruiting@palantir.com) when complete so we can evaluate your work. Please use `LASTNAME_FIRSTNAME_BUILDNOW_SUBMISSION` in the subject line. Submissions are due no later than Friday, October 18th, 2024 and will be evaluated on a rolling basis.** 
 
 ### Example Prompts
