@@ -14,5 +14,4 @@
      b. Select ```US-East``` as your region
   
 10. Enter billing details
-11. Sign up for AIPNow!
-12. Get started with Docs + Videos
+11. Sign up for AIPNow & Get Building!
