@@ -5,7 +5,8 @@ Great! Now that you've familiarized yourself with key concepts of Foundry, inclu
 2. It's generally best practice to add folders to this new project to organize your files - try adding folders for *data*, *pipelines*, and *applications* (using *+New -> Folder*)
 3. Within your data folder, hit the green *+New* button and choose to *Upload Files*
 4. Select the unzipped .csv files you've downloaded that we have provided you to use in the project
-5. When uploading, use the default *Structured Data* option
+    - In case you haven't, those can be downloaded [here](https://github.com/JoshWeiner/zelus-palantir-hospitals/raw/main/data/extract.tar.gz?download=) 
+6. When uploading, use the default *Structured Data* option
 
 
 You now have data in foundry you can use to create objects on top of - great! Ontologizing this data will follow a very similar process to the one with which you are already familiar with from the [Get Familiar with AIPNow](/info/aip_now_help.md) section in the homepage.
