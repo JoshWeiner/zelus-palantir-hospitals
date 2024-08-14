@@ -16,7 +16,7 @@ Our customers come to us with a hunch that the only way to improve their hospita
 - Use NLP to extract medication names and dosages from patient notes and correlate them with ICD-10 codes to identify potential unsafe drug interactions or contraindications.
 - Analyze patterns of healthcare utilization by integrating patient demographics, notes, and ICD-10 codes to model healthcare costs and identify drivers of high expenditures.
 
-You might think you're lacking enough direction to confidently get started, but that's the point. The best solutions can be found by getting your hands dirty and finding out for yourself what could be valuable to solve. The above prompts are just examples of possible paths that *might* make sense. This is meant to be an exercise in exploring a new environment, as much as it is one where you can show off your technical, communication, and decmop skills.
+You might think you're lacking enough direction to confidently get started, but that's the point. The best solutions can be found by getting your hands dirty and finding out for yourself what could be valuable to solve. The above prompts are just examples of possible paths that *might* make sense. This is meant to be an exercise in exploring a new environment, as much as it is one where you can show off your technical, communication, and decomp skills.
 
 ### Link to Data
 [Data Extract tar File](https://github.com/JoshWeiner/zelus-palantir-hospitals/raw/main/data/extract.tar.gz?download=) 
