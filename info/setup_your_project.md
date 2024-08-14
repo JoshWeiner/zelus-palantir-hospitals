@@ -8,5 +8,8 @@ Great! Now that you've familiarized yourself with key concepts of Foundry, inclu
 5. When uploading, use the default *Structured Data* option
 
 
-You now have data in foundry you can use to create objects on top of - great! Ontologizing this data will follow a very similar process to the one with which you are already familiar with from the [Getting STarted Section]().
+You now have data in foundry you can use to create objects on top of - great! Ontologizing this data will follow a very similar process to the one with which you are already familiar with from the [Get Familiar with AIPNow](/info/aip_now_help.md) section in the homepage.
+
+Again, try your best to resolve issues on your own, but reach out to the following with blockers:
+
 
