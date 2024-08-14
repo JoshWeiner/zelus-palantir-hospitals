@@ -25,15 +25,19 @@ The PMC_Patient_clean dataset was cleaned and sourced from the following:
 **Zhao, Z., Jin, Q., Chen, F., Peng, T., & Yu, S. (2022).** A Large-scale Dataset of Patient Summaries and Relations for Benchmarking Retrieval-based Clinical Decision Support Systems. Retrieved from [https://arxiv.org/pdf/2202.13876](https://arxiv.org/pdf/2202.13876)
 
 #### Data Documentation
+
+**Dataset 1: PMC_Patient_clean.csv**
 | **Field Name** | **Description**                     | **Data Type** |
 |----------------|-------------------------------------|---------------|
-| **Dataset 1: PMC_Patients_cleaned.csv**                 |
 | `patient_id`   | A continuous id of patients, starting from 0  | Integer        |
 | `patient_uid` | Unique ID for each patient, with format PMID-x, where PMID is the PubMed Identifier of the source article of the patient and x denotes index of the patient in source article  | String          |
 | `patient_note`    | Summary of patient: symptoms, diagnoses, history, and/or treatment               | String        |
 | `age`          | Age of the patient in years              | Integer       |
 | `gender`       | Gender of the patient 'M' or 'F'. Male or Female | String        |
-| **Dataset 2: icd_10_codes.csv**                             |
+
+**Dataset 2: icd_10_codes.csv**
+| **Field Name** | **Description**                     | **Data Type** |
+|----------------|-------------------------------------|---------------|
 | `icd_10_code`   | CDC/CMS ICD-10 code        | String        |
 | `description`| ICD-10 code detailed description/diagnosis | String    |
 | `embedded_description`  | Vector embedding of ICD-10 code description/diagnosis | String        |
