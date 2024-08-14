@@ -16,5 +16,5 @@ We recommend you start here before trying to approach the project head-on, since
 The above concepts are critical pieces of Foundry that everyone on the Hospitals team - echos and deltas alike - interact with on a daily basis. Most Palantirians learn these on the fly (just like you!).
 
 If you're having trouble figuring something out, do your best to struggle through it or reference Palantir documentation. If you need, feel free to reach out to the following for more direction:
-- [Anders Seline](aseline@palantir.com)
-- [Joshua Weiner](joshuaweiner@palantir.com)
+- [Anders Seline](mailto:aseline@palantir.com)
+- [Joshua Weiner](mailto:joshuaweiner@palantir.com)
