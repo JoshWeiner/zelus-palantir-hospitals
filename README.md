@@ -13,7 +13,7 @@ Our customers come to us with a hunch that the only way to improve their hospita
 - Given a patient's notes, how do we generate verifiable diagnoses and highlight concerns/abnormalities for clinicians?
 - Create a simulation model that predicts hospital admission rates based on the frequency and types of ICD-10 codes in patient notes over time.
 - Use NLP to extract medication names and dosages from patient notes and correlate them with ICD-10 codes to identify potential unsafe drug interactions or contraindications.
-- Analyze patterns of healthcare utilization by integrating patient demographics, notes, and ICD-10 codes to model healthcare costs and identify drivers of high expenditures
+- Analyze patterns of healthcare utilization by integrating patient demographics, notes, and ICD-10 codes to model healthcare costs and identify drivers of high expenditures.
 
 ### Link to Data
 [Data Extract tar File](https://github.com/JoshWeiner/zelus-palantir-hospitals/raw/main/data/extract.tar.gz?download=) 
