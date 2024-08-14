@@ -9,9 +9,9 @@ To make sure you're in the right place, your URL on this page should look like:
 At the bottom of the page, you'll see a few [training](https://learn.palantir.com/) videos, the first of which is [Speedrun: Your First End-to-End Workflow](https://learn.palantir.com/speedrun-your-first-e2e-workflow).
 
 We recommend you start here before trying to approach the project head-on, since using Foundry for the first time can be a little overwhelming. This first video should be enough to get you started, but there's also some other helpful resources:
-1. [Creating your First Pipeline](https://learn.palantir.com/deep-dive-building-your-first-pipeline)
+1. [Building your First Pipeline](https://learn.palantir.com/deep-dive-building-your-first-pipeline)
 2. [Creating your First Ontology](https://learn.palantir.com/deep-dive-creating-your-first-ontology)
-3. [(Buidling your First Application](https://learn.palantir.com/deep-dive-building-your-first-application)
+3. [Building your First Application](https://learn.palantir.com/deep-dive-building-your-first-application)
 
 The above concepts are critial pieces of Foundry that everyone on the Hospitals team - echos and deltas alike - interact with on a daily basis. Most Palantirians learn these on the fly (just like you!).
 
