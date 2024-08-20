@@ -8,7 +8,7 @@ Our customers come to us with a hunch that the only way to improve their hospita
 2. [Get Familiar with AIPNow](/info/aip_now_help.md)
 3. [Setup your Project](/info/setup_your_project.md)
 
-**Complete your submission by emailing a sub-two minute video of your demo to [hospitals-recruiting@palantir.com](mailto:hospitals-recruiting@palantir.com) when complete so we can evaluate your work. Please use `LASTNAME_FIRSTNAME_BUILDNOW_SUBMISSION` in the subject line. In your video, show how you approached the prompt, why you chose to manipulate the data in the way you did, who your users are, and the impact you expect this workflow to drive. Submissions are due no later than Friday, October 18th, 2024 and will be evaluated on a rolling basis.** 
+**Complete your submission by emailing a sub-two minute video of your demo to [build-now@palantir.com](mailto:build-now@palantir.com) when complete so we can evaluate your work. Please use `LASTNAME_FIRSTNAME_BUILDNOW_SUBMISSION` in the subject line. In your video, show how you approached the prompt, why you chose to manipulate the data in the way you did, who your users are, and the impact you expect this workflow to drive. Submissions are due no later than Friday, October 18th, 2024 and will be evaluated on a rolling basis.** 
 
 ### Example Prompts
 - Given a patient's notes, how do we generate verifiable diagnoses and highlight concerns/abnormalities for clinicians?
